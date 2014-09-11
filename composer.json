@@ -1,9 +1,9 @@
 {
     "name": "parker/laravel-betterhtml",
-    "description": "A better HtmlBuilder/FormBuilder for Laravel 4 (including support for raw, non-escaped HTML and more tags)",
+    "description": "A better HtmlBuilder for Laravel 4 (including support for raw, non-escaped HTML and more tags)",
     "tags": ["laravel", "illuminate", "html", "form", "builder"],
     "license": "MIT",
-    "homepage": "http://packagist.org/parker/laravel-betterhtml",
+    "homepage": "https://github.com/baileyparker/laravel-betterhtml",
     "authors": [
         {
             "name": "Bailey Parker",
